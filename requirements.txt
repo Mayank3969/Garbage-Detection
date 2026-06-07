@@ -1,6 +1,7 @@
 ultralytics
+gradio
+pillow
 fastapi
 uvicorn
-pillow
-gradio
 python-multipart
+numpy
