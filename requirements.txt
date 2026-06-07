@@ -1,0 +1,6 @@
+ultralytics
+fastapi
+uvicorn
+pillow
+gradio
+python-multipart

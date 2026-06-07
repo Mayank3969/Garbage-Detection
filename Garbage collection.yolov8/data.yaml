@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Garbage']
+
+roboflow:
+  workspace: mayank-dhapodkar
+  project: garbage-collection-hil5q
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mayank-dhapodkar/garbage-collection-hil5q/dataset/dataset

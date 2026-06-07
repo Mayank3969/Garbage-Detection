@@ -124,4 +124,8 @@ Ran full 75 epochs. Validation mAP converged — no significant improvement obse
 - `results.png` — loss and mAP curves across all epochs
 - `confusion_matrix.png` — per-class prediction breakdown on validation set
 - `val_predictions.jpg` — sample predictions on unseen validation images
+<<<<<<< HEAD
 - `best.pt` — best model weights saved at highest validation mAP
+=======
+- `best.pt` — best model weights saved at highest validation mAP
+>>>>>>> c7dc184 (Added fastAPI /predict endpoint)
