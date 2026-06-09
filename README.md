@@ -1,9 +1,9 @@
 # Garbage Detection System
 **Author:** Mayank Dhapodkar  
-**Assignment:** BERAM PVT LTD — Machine Learning Round 2
+
 
 ## Live Demo
-[HuggingFace Space — link after deployment]
+[[HuggingFace Space](https://huggingface.co/spaces/Mayank3969/garbage-detection)]
 
 ## Results
 | Metric | Validation | Test |
